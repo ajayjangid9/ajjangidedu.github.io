@@ -1,0 +1,267 @@
+.menu{
+	background: #ffbc3b;
+
+}
+.menu h4{
+	color: #fff;
+}
+.menu span{
+	color: #b97ebb;
+	font-weight: bold;
+}
+
+#menu li a{
+	color: #fff;
+	font-weight: 600;
+	margin-left: 20px;
+}
+#menu li a:hover{
+	background-color: #222;
+	transition: all 300ms ease;
+	border-radius: 5px;
+
+}
+.text-center h1{
+	font-family: 'Berkshire Swash';
+}
+.page-title-section{
+	height: 500px;
+
+}
+.list-inline-item{
+	font-size: 26px;
+	font-family: "futura-bold";
+}
+.list-inline{
+	padding-top: 200px;
+}
+.text-lighten{
+	color: #d6d6e0;
+	margin-left: 10px;
+}
+.custom-breadcrumb .fa{
+    font-size: 25px;
+}
+.custom-breadcrumb li{
+	padding-left: 10px;
+	font-size: 30px;
+	
+}
+.overlay:before{
+	position: absolute;
+    content: '';
+    height: 500px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #1a1a37;
+    opacity: .6;
+
+}
+.about-heading{
+	color: #1e1e4b
+	font-family: "futura-bold";
+    font-weight: 700;
+    line-height: 1.2;
+}
+.about-colum p{
+	font-weight: 400;
+    color: #5c5c77;
+    font-size: 15px;
+    padding-bottom: 20px;
+    line-height: 2;
+    font-family: "Poppins", sans-serif;
+}
+.about-rating{
+	background: #ffbc3b;
+	padding: 20px;
+}
+
+.count-text h1{
+	
+   	font-weight: bold;
+    line-height: 1.2;
+    font-size: 40px;
+}
+.count-text h2{
+    font-size: 18px;
+    font-family: "futura-bold";
+}
+.team-area{
+	background: #fff;
+	padding: 30px;
+
+}
+.border-line{
+	border-bottom: 2px solid orange;
+	display: table;
+	width: 10%;
+
+}
+.team-section h2{
+	color: #07294d;
+   padding: 0px;
+  
+}
+.team-area{
+	background: #fff;
+	padding: 30px;
+
+}
+.border-line{
+	border-bottom: 2px solid orange;
+	display: table;
+	width: 10%;
+
+}
+.team-section h2{
+	color: #07294d;
+   padding: 0px;
+  
+}
+.team-section h1{
+	padding-bottom: 30px;
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 48px;
+}
+.team-section button{
+	margin-top: 30px;
+}
+
+.con{
+	position: absolute;
+   bottom: 10px;
+    left: 0;
+    right: 0;
+    width: 80%;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 5px;
+
+   
+}
+.con h6{
+	color: black;
+}
+.single-teacher{
+	position: relative;
+	  margin-bottom: 20px;
+	  font-size: 10px;
+
+}
+.single-teacher h6:hover{
+	color: #fd7e14;
+}
+
+.single-teacher img{
+	border-radius: 10px;
+	overflow: hidden;
+
+}
+
+.single-teacher img:hover {
+	 transform: scale(1.02);
+   transition: all 0.1s linear;
+
+
+}
+.Success-story{
+	margin-top: 50px;
+	font-family: "futura-bold";
+	color: #1e1e4b;
+	background: #fff;
+	height: 600px;
+    padding: 60px 70px;
+}
+
+
+
+footer{
+	background: #212529;
+	padding: 10px;
+}
+.footer-section h1{
+	color: #fff;
+	font-size: 19px;
+}
+.footer-section span{
+	color: #ffc107;
+}
+.footer-section p{
+   font-family: "Poppins", sans-serif;
+    color: lightyellow;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.site-section h1{
+	font-weight: bold;
+}
+.list-item-name{
+	float: left;
+	overflow: hidden;
+	margin-left: 10px;
+}
+.fa{
+	color: #ffc600;
+}
+.list-item-item{
+	padding-left: 10px;
+
+}
+
+.list-item-name li{
+	list-style: none;
+	margin-top: 10px;
+	transition: all 0.8s linear;
+	display: table;
+}
+.list-item-name a{
+	color: #fff;
+	font-size: 15px;
+	
+	
+}
+.list-item-name li:hover{
+	transform: translateX(10px);
+}
+.line{
+	border: 1px solid #494a43;
+	width: 100%;
+}
+.line{
+	padding: 40px;
+	background: #212529;
+}
+
+
+.desgin-section h1{
+	font-weight: 400;
+    color: #5c5c77;
+    font-size: 15px;
+    line-height: 1.9;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.bg-footer{
+	color: #5c5c77;
+	background: #212529;
+}
+.bg-footer a{
+	font-size: 20px;
+	color: grey;
+}
+.bg-footer h1{
+	font-size: 15px;
+}
+.list-inline li{
+	font-size: 20px;
+}
+.list-inline-icon{
+	display: inline;
+}	
+
+.section-text{
+	padding-left: 14px;
+}

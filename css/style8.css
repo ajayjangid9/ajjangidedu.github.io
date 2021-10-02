@@ -1,0 +1,457 @@
+.menu{
+	background: #ffbc3b;
+
+}
+.menu h4{
+	color: #fff;
+}
+.menu span{
+	color: #b97ebb;
+	font-weight: bold;
+}
+
+#menu li a{
+	color: #fff;
+	font-weight: 600;
+	margin-left: 20px;
+}
+
+#menu li a:hover{
+	background-color: #222;
+	transition: all 300ms ease;
+	border-radius: 5px;
+
+}
+.carousel-item-inner{
+	background: rgba(0,0,0,0.5);
+	padding-bottom: 250px;
+}
+#slider .carousel-item{
+
+	height: 550px;
+}
+
+#slider .carousel-item h1{
+	color: #fff;
+	margin-left: 20px;
+	font-size: 50px;
+	font-weight: bold;
+	padding-top: 150px;
+	
+	
+}
+#slider .carousel-item h1:hover{
+	animation-delay: 5s;
+    animation-duration: 0.3s;
+	
+}
+#slider .carousel-item p{
+	color: #fff;
+	margin-left: 20px;	
+	
+}
+#slider .carousel-item button{
+	color: #fff;
+	margin-left: 20px;
+	padding: 7px 25px;
+	border-radius: 5px;
+}
+
+.about-section{
+	padding: 30px;
+}
+.logo-con{
+	padding: 0px;
+}
+.logo-con h1{
+	font-size: 22px;
+}
+.about-e{
+	padding: 30px;
+	width: 100%;
+}
+
+.about-e h1{
+	color: #ffb223;
+	font-size: 20px;
+	line-height: 1.3em;
+	letter-spacing: 7px;
+}
+.about-e h2{
+	color: #4054B2;
+	font-size: 40px;
+	font-weight: bold;
+	margin-top:60px;
+}
+.about-e p{
+	color: grey;
+}
+.about-e button{
+	background: #4054B2;
+	color: yellow;
+	padding: 10px 20px;
+	border-radius: 7px;
+    
+}
+.about-e img{
+	margin-top: 20px;
+}
+.fe-section-item{
+	background-color:#f9f9ff;
+	padding: 20px;
+	border-left: 4px solid #FDC800;
+	transition: 1s;
+
+}
+.fe-section-item:hover{
+	 transform: scale(1.1);
+
+}
+.fe-section-item h1{
+	font-size: 17px;
+	font-weight:bold;
+	color: #002147;
+}
+.course-sec{
+	padding: 30px;
+}
+.course-sec h3{
+	font-size: 30px;
+	font-weight: bold;
+	
+    
+}
+.course-sec h1{
+	font-size: 50px;
+	color: #4054B2;
+}
+
+.list-inline-item{
+	color: grey;
+}
+.list-inline-item a{
+	color: grey;
+}
+.card-title:hover{
+	color: #fd7e14;
+}
+.card-text{
+	color: grey;
+}
+
+.card-title{
+	color: #343a40;
+	font-weight: bold;
+	
+}
+.card-title{
+	font-family: "futura-bold";
+   
+	
+}
+.card{
+    background: #fff;
+  cursor: pointer;
+}
+.card:hover{
+ box-shadow: 0 10px 20px; 
+}
+.btn{
+	padding: 10px 20px;
+	font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+
+}
+.join-section{
+	background: #ffbc3b;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	color: #fff;
+}
+.join-section h5{
+	font-family: "futura-bold";
+	font-weight: bold;
+	font-size: 15px;
+	
+}
+.join-section h2{
+	font-family: "futura-bold";
+	font-weight: bold;
+	font-size:40px;
+	
+}
+.join-section button{
+	margin-top: 40px;
+	padding: 15px 30px;
+	border:	white;
+	z-index: 100000;
+	color: #ffbc3b;
+}
+
+.Success-story{
+	margin-top: 50px;
+	font-family: "futura-bold";
+	color: #1e1e4b;
+	background: #fff;
+	height: 600px;
+    padding: 60px 70px;
+}
+.Success-story h1{
+	font-weight: bold;
+
+}
+.Success-story p{
+	font-weight: 400;
+    color: #5c5c77;
+    font-size: 15px;
+    margin-top: 20px;
+    line-height: 2.2;
+    font-family: "Poppins", sans-serif;
+	
+}
+
+
+.register_content{
+	background: #ffbc3b;
+	padding: 50px;
+}
+
+	.section-more{
+	background-color: #ffbc3b;
+
+
+}
+.section-info{
+	padding-top: 90px;
+	
+
+}
+.register_title{
+	margin-bottom: 50px;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.63;
+	font-weight: 200;
+	text-align: center!important;
+
+	
+}
+.register_title span{
+	color: #1a1a1a;
+}
+.textarea{
+	background: #fff;
+	padding: 20px 30px;
+}
+.section-info p{
+	margin-bottom: 50px;
+	
+}
+.button-class{
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+.button-class button{
+	text-align: center;
+	background-color: black;
+	width: 202px;
+    height: 48px;
+    border: black;
+
+    color: #fff;
+   
+}
+.course-item h1{
+	padding-bottom: 80px;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+#course-name{
+	padding: 22px;
+	border-radius: 0px;
+}
+#category{
+	padding: 22px;
+	border-radius: 0px;
+}
+#digree{
+	padding: 22px;
+	border-radius: 0px;
+}
+.course-button{
+	padding: 30px;
+}
+.search_submit_button{
+	background: #ffbc3b;;
+	color: #fff;
+	width: 100%;
+	height: 48px;
+	border: 2px solid white;
+	text-transform: uppercase;
+	
+}
+
+.team-area{
+	background: #fff;
+	padding: 30px;
+
+}
+.border-line{
+	border-bottom: 2px solid orange;
+	display: table;
+	width: 10%;
+
+}
+.team-section h2{
+	color: #07294d;
+   padding: 0px;
+  
+}
+.team-section h1{
+	padding-bottom: 30px;
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 48px;
+}
+.team-section button{
+	margin-top: 30px;
+}
+
+.con{
+	position: absolute;
+   bottom: 10px;
+    left: 0;
+    right: 0;
+    width: 80%;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 5px;
+
+
+
+   
+}
+.con h6{
+	color: black;
+}
+.single-teacher{
+	position: relative;
+	  margin-bottom: 20px;
+	  font-size: 10px;
+
+}
+.single-teacher h6:hover{
+	color: #fd7e14;
+}
+
+.single-teacher img{
+	border-radius: 10px;
+	overflow: hidden;
+
+}
+
+.single-teacher img:hover {
+	 transform: scale(1.02);
+   transition: all 0.1s linear;
+
+
+}
+footer{
+	background: #212529;
+	padding: 10px;
+}
+.footer-section h1{
+	color: #fff;
+	font-size: 19px;
+}
+.footer-section span{
+	color: #ffc107;
+}
+.footer-section p{
+   font-family: "Poppins", sans-serif;
+    color: lightyellow;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.site-section h1{
+	font-weight: bold;
+}
+.list-item-name{
+	float: left;
+	overflow: hidden;
+	margin-left: 10px;
+}
+.fa{
+	color: #ffc600;
+}
+.list-item-item{
+	padding-left: 10px;
+
+}
+
+.list-item-name li{
+	list-style: none;
+	margin-top: 10px;
+	transition: all 0.8s linear;
+	display: table;
+}
+.list-item-name a{
+	color: #fff;
+	font-size: 15px;
+	
+	
+}
+.list-item-name li:hover{
+	transform: translateX(10px);
+}
+.line{
+	border: 1px solid #494a43;
+	width: 100%;
+}
+.line{
+	padding: 40px;
+	background: #212529;
+}
+.list-inline{
+	position: relative;
+	bottom: 1px;
+}
+
+
+.desgin-section h1{
+	font-weight: 400;
+    color: #5c5c77;
+    font-size: 15px;
+    line-height: 1.9;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.bg-footer{
+	color: #5c5c77;
+	background: #212529;
+}
+.section-text{
+	padding-left: 14px;
+}
+.bg-footer a{
+	font-size: 20px;
+	color: grey;
+}
+.bg-footer h1{
+	font-size: 15px;
+}
+.list-inline li{
+	font-size: 20px;
+}
+}
+}
+
+
+
+
+
